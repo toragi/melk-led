@@ -1,0 +1,6 @@
+{
+  "name": "MELK LED",
+  "render_readme": true,
+  "domains": ["light"],
+  "homeassistant": "2024.6.0"
+}

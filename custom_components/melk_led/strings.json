@@ -1,0 +1,17 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "MELK LED",
+        "description": "Введи MAC ленты (пример BE:67:01:03:09:E0).\nНайдено рядом: {found}",
+        "data": {
+          "address": "MAC-адрес",
+          "name": "Имя (необязательно)"
+        }
+      }
+    },
+    "abort": {
+      "already_configured": "Это устройство уже добавлено"
+    }
+  }
+}
